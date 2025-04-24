@@ -1,6 +1,6 @@
 # aws-devops-projects
 Hands-on AWS DevOps projects by Hardel Santos-Sanchez
-# EC2 Web App Deployment with User Data Script
+# ELASTIC KUBERNETES SERVICES
 
 A hands-on AWS DevOps project that demonstrates how to automatically deploy a simple web server on an EC2 instance using a user data script.
 
